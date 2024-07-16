@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-justified{
+    display: flex;
+    justify-content: center;
+}
+
+.flex-aligned{
+    display: flex;
+    align-items: center;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
